@@ -29,7 +29,7 @@ if __name__ == '__main__':
         ans = ob.fascinating(n)
         if ans:
             print("Fascinating")
-        else:
+        else: 
             print("Not Fascinating")
         tc -= 1
 
