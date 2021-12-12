@@ -30,6 +30,6 @@ if __name__ == '__main__':
         for x in arr:
             print(x, end=" ")
         print()
-        tc -= 1
+        tc -= 1 
 
 # } Driver Code Ends
